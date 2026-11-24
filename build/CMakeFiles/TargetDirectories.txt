@@ -1,0 +1,5 @@
+/home/ubuntu/kurs/build/CMakeFiles/client_orders.dir
+/home/ubuntu/kurs/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/kurs/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/kurs/build/CMakeFiles/client_orders_autogen_timestamp_deps.dir
+/home/ubuntu/kurs/build/CMakeFiles/client_orders_autogen.dir
